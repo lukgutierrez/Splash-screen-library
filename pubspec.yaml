@@ -95,8 +95,7 @@ flutter_native_splash:
   image: "assets/omaly_logo.png"
   fullscreen: true
   android_12:
-    #color: "#000000"
     image: "assets/omaly.png"
-    icon_background_color: "#204220"
+    icon_background_color: "#000000"
   web: false
   ios: false
